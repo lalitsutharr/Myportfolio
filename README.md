@@ -1,3 +1,6 @@
 # lalitsuthar.github.io
- https://lalitsutharr.github.io/Capstone-Project/
+ https://lalitsutharr.github.io/portfolio/
+ 
+ #welcome to my portfolio
+ 
  
